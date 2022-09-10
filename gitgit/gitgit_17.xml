@@ -1,0 +1,26 @@
+<annotation>
+    <folder>gitgit</folder>
+    <filename>gitgit_17.jpg</filename>
+    <path>/home/gameover/Documents/Running/flask_custom_model_detction/flask-soft-ui-dashboard/gitgit/gitgit_17.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>226</width>
+        <height>77</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>gitgit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>213</xmin>
+            <ymin>142</ymin>
+            <xmax>439</xmax>
+            <ymax>219</ymax>
+        </bndbox>
+    </object>
+</annotation>

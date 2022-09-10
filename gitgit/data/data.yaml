@@ -1,0 +1,6 @@
+train: /home/gameover/Documents/Running/flask_custom_model_detction/flask-soft-ui-dashboard/gitgit/data/images/train
+val: /home/gameover/Documents/Running/flask_custom_model_detction/flask-soft-ui-dashboard/gitgit/data/images/valid
+
+nc: 1
+names: ['gitgit']
+SAVE_VALID_PREDICTION_IMAGES: True
